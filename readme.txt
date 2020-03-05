@@ -1,7 +1,7 @@
-Zeal 0.8.x BETA
+Zeal 1.0
 
-Copyright (c) 2009-2014 Bitcoin Developers
-Copyright (c) 2011-2014 Zeal Developers
+Copyright (c) 2020 Zealchain
+
 Distributed under the MIT/X11 software license, see the accompanying
 file COPYING or http://www.opensource.org/licenses/mit-license.php.
 This product includes software developed by the OpenSSL Project for use in
